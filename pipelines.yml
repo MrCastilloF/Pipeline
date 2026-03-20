@@ -27,5 +27,3 @@ jobs:
       - name: Mensaje de éxito
         run: echo "✅ Pipeline completado exitosamente"
 ```
-
-> Cada vez que hagas `push`, GitHub ejecutará esto automáticamente. **Eso ya es CI/CD real.**
